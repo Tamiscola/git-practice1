@@ -1,0 +1,7 @@
+hello
+^C
+^c
+^C
+end
+^C
+'^C'
